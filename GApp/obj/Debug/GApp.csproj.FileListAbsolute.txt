@@ -1,0 +1,9 @@
+c:\users\re034791\documents\visual studio 2017\Projects\GApp\GApp\bin\Debug\GApp.exe.config
+c:\users\re034791\documents\visual studio 2017\Projects\GApp\GApp\bin\Debug\GApp.exe
+c:\users\re034791\documents\visual studio 2017\Projects\GApp\GApp\bin\Debug\GApp.pdb
+c:\users\re034791\documents\visual studio 2017\Projects\GApp\GApp\obj\Debug\GApp.csprojResolveAssemblyReference.cache
+c:\users\re034791\documents\visual studio 2017\Projects\GApp\GApp\obj\Debug\GApp.Form1.resources
+c:\users\re034791\documents\visual studio 2017\Projects\GApp\GApp\obj\Debug\GApp.Properties.Resources.resources
+c:\users\re034791\documents\visual studio 2017\Projects\GApp\GApp\obj\Debug\GApp.csproj.GenerateResource.Cache
+c:\users\re034791\documents\visual studio 2017\Projects\GApp\GApp\obj\Debug\GApp.exe
+c:\users\re034791\documents\visual studio 2017\Projects\GApp\GApp\obj\Debug\GApp.pdb
